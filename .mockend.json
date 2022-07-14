@@ -1,0 +1,63 @@
+[
+    {
+        "Service_name":"Locate an enrollement center",
+        "Description":"Allows to search for a nearest enrollment center by selecting State/Postal code/Search Box.",
+        "url":"https://appointments.uidai.gov.in/easearch.aspx"
+    },
+    {
+        "Service_name":"Book an appoitment",
+        "Description":"For Enrolment or to update your Aadhaar data you can book an online appointment at an Aadhaar Seva Kendra.",
+        "url":"https://appointments.uidai.gov.in/bookappointment.aspx"
+    },
+    {
+        "Service_name":"Check Aadhaar status",
+        "Description":"Allows to check status of aadhar card",
+        "url":"https://myaadhaar.uidai.gov.in/check-aadhaar"
+    },
+    {
+        "Service_name":"Download Aadhaar",
+        "Description":"Allows to download aadhaar card",
+        "url":"https://myaadhaar.uidai.gov.in/genricDownloadAadhaar"
+    },
+    {
+        "Service_name":"Retrieve Lost or Forgotten UID/EID",
+        "Description":"Retrieve Lost or Forgotten UID/EID by giving mobile number and name",
+        "url":"https://myaadhaar.uidai.gov.in/retrieve-eid-uid"
+    },
+    {
+        "Service_name":"Order Aadhaar PVC Card",
+        "Description":"Allows to order for a secure, wallet-sized Aadhaar PVC Card",
+        "url":"https://myaadhaar.uidai.gov.in/genricPVC"
+    },
+    {
+        "Service_name":"Check Aadhaar PVC Card status",
+        "Description":"Allows to check the status of the new SRNs, starting with 'S' and issued by myaadhaar portal",
+        "url":"https://myaadhaar.uidai.gov.in/checkStatus"
+    },
+    {
+        "Service_name":"Verify an Aadhaar Number",
+        "Description":"Verify aadhaar  number by entering aadhaar number and captcha",
+        "url":"https://myaadhaar.uidai.gov.in/verifyAadhaar"
+    },
+    {
+        "Service_name":"Verify Email/Mobile Number",
+        "Description":"Verify email/mobile number by entering aadhaar number and mobile / email id.",
+        "url":"https://myaadhaar.uidai.gov.in/verify-email-mobile"
+    },
+    {
+        "Service_name":"Virtual ID Generator",
+        "Description":"Generates 16 digit Virtual ID linked to aadhaar.",
+        "url":"https://myaadhaar.uidai.gov.in/genericGenerateOrRetriveVID"
+    },
+    {
+        "Service_name":"Aadhaar Paperless Offline e-KYC",
+        "Description":" a secure sharable document which can be used by any Aadhaar number holder for offline verification of Identification.",
+        "url":"https://myaadhaar.uidai.gov.in/offline-ekyc"
+    },
+    {
+        "Service_name":"Lock/Unlock Biometrics",
+        "Description":"Service to temporarily lock/unlock aadhaar.",
+        "url":"https://myaadhaar.uidai.gov.in/lock-unlock-aadhaar"
+    }
+
+]
